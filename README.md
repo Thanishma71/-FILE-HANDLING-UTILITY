@@ -22,3 +22,8 @@ The delete option allows users to remove unwanted files permanently. The program
 
 By developing this utility, I gained hands-on experience with file I/O operations in Java. I also improved my skills in exception handling, user interaction, and menu-driven program design. The process of writing this program helped me understand the importance of clean code, modular design, and user-friendly features. Overall, this project not only enhanced my technical knowledge but also served as a valuable addition to my Java learning journey, making it suitable for submission in internship tasks or academic assignments."
 
+Output: 
+
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/7b1054b8-8d97-44d6-b549-28d24ff0dbf5" />
+
